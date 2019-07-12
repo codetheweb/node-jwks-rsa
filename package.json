@@ -4,7 +4,7 @@
   "description": "Library to retrieve RSA public keys from a JWKS endpoint",
   "main": "lib/index.js",
   "types": "index.d.ts",
-  "files": ["lib/"],
+  "files": ["lib/", "index.d.ts"],
   "dependencies": {
     "@types/express-jwt": "0.0.42",
     "debug": "^2.6.9",
